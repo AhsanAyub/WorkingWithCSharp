@@ -1,0 +1,22 @@
+SELECT prescription.presID, prescription.pDate,
+MedicineForPrescription.MedGenericName, MedicineForPrescription.Intake, MedicineForPrescription.Days, MedicineForPrescription.Comment,
+TestForPrescription.testName, TestForPrescription.testComment
+FROM prescription
+	JOIN MedicineForPrescription
+		ON MedicineForPrescription.presID = prescription.presID
+	JOIN TestForPrescription
+		ON TestForPrescription.presID = prescription.presID;
+
+
+SELECT MedicineForPrescription.MedGenericName, MedicineForPrescription.Intake,
+MedicineForPrescription.Days, MedicineForPrescription.Comment
+FROM prescription
+	JOIN MedicineForPrescription
+		ON MedicineForPrescription.presID = prescription.presID;
+
+string DoctorName, string DoctorUserName, string PatientName, int PatientID
+
+
+20100110142191
+10-Jan-2010
+1231513624

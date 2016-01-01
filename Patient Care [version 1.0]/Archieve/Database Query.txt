@@ -1,0 +1,8 @@
+INSERT INTO doctor
+VALUES ('nur-e-alam', '1234', 'Dr. Nur-e-Alam', 'Pediatrics')
+
+UPDATE doctor SET dPassword = '012345'
+WHERE dUserName = 'nur-e-alam';
+
+UPDATE doctor set dPassword = '01234', dName = 'Dr. Nur e Alam', dSpeciality = 'Pediatrics'
+WHERE dUserName = 'nur-e-alam';

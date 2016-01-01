@@ -1,0 +1,4 @@
+H:\University Doc\Coding\PatientCare\Framework\bin\Release\Framework.dll
+H:\University Doc\Coding\PatientCare\Framework\bin\Release\Framework.pdb
+H:\University Doc\Coding\PatientCare\Framework\obj\Release\Framework.dll
+H:\University Doc\Coding\PatientCare\Framework\obj\Release\Framework.pdb

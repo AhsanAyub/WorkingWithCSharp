@@ -1,0 +1,4 @@
+H:\University Doc\Coding\PatientCare\Entities\bin\Release\Entities.dll
+H:\University Doc\Coding\PatientCare\Entities\bin\Release\Entities.pdb
+H:\University Doc\Coding\PatientCare\Entities\obj\Release\Entities.dll
+H:\University Doc\Coding\PatientCare\Entities\obj\Release\Entities.pdb

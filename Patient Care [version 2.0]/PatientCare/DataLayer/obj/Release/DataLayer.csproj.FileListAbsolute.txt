@@ -1,0 +1,9 @@
+H:\University Doc\Coding\PatientCare\DataLayer\bin\Release\DataLayer.dll
+H:\University Doc\Coding\PatientCare\DataLayer\bin\Release\DataLayer.pdb
+H:\University Doc\Coding\PatientCare\DataLayer\bin\Release\Entities.dll
+H:\University Doc\Coding\PatientCare\DataLayer\bin\Release\Framework.dll
+H:\University Doc\Coding\PatientCare\DataLayer\bin\Release\Entities.pdb
+H:\University Doc\Coding\PatientCare\DataLayer\bin\Release\Framework.pdb
+H:\University Doc\Coding\PatientCare\DataLayer\obj\Release\DataLayer.csprojResolveAssemblyReference.cache
+H:\University Doc\Coding\PatientCare\DataLayer\obj\Release\DataLayer.dll
+H:\University Doc\Coding\PatientCare\DataLayer\obj\Release\DataLayer.pdb

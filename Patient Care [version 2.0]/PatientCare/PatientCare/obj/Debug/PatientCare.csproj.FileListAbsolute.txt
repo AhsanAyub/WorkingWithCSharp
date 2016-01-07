@@ -1,0 +1,3 @@
+H:\University Doc\Coding\PatientCare\PatientCare\obj\Debug\PatientCare.Form1.resources
+H:\University Doc\Coding\PatientCare\PatientCare\obj\Debug\PatientCare.Properties.Resources.resources
+H:\University Doc\Coding\PatientCare\PatientCare\obj\Debug\PatientCare.csproj.GenerateResource.Cache
